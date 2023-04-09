@@ -1,0 +1,32 @@
+.faq-item {
+  border: 1px solid #d7dae6;
+  padding: 10px;
+  margin-bottom: 20px;
+  border-radius: 15px;
+}
+.faq-question-and-plus-card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.faq-heading {
+  font-size: 20px;
+  font-weight: 500;
+  font-family: 'Roboto';
+  color: #52606d;
+}
+.plus-minus-button {
+  border-width: 0px;
+  background-color: transparent;
+  cursor: pointer;
+  outline: none;
+}
+.horizental-rule {
+  border: none;
+  background-color: #e4e7eb;
+  height: 1px;
+}
+.faq-answer {
+  color: #9aa5b1;
+  font-size: 17px;
+}
